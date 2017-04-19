@@ -1,0 +1,17 @@
+h1{
+  color :blue;
+  font :30px;
+}
+.div1{
+  color:blue;
+  display:block;
+  background-color: lime;
+  height: 100px;
+  width: 300px;
+  margin-top :10%;
+  margin-left:10%
+}
+p{
+  color : grey;
+  font-size: 20px;
+}
